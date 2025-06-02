@@ -1,0 +1,22 @@
+/* src/styles.css */
+.sidebar {
+    height: 100vh;
+    position: fixed;
+    width: 200px;
+    padding-top: 20px;
+  }
+  
+  .sidebar a {
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+  }
+  
+  .sidebar a:hover {
+    background-color: #ddd;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  

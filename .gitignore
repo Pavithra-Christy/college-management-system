@@ -1,0 +1,43 @@
+# ========================
+# Global Ignore Patterns
+# ========================
+*.pyc
+__pycache__/
+*.log
+*.swp
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ========================
+# Python / Django Backend
+# ========================
+*.sqlite3
+*.db
+.env
+**/migrations/
+!*/migrations/__init__.py
+
+# backend venv is inside the project
+college_management_backend/venv/
+
+# Optional: Ignore SQL dumps if not needed in repo
+# college_management_backend/sql/
+# college_management_backend/college_db.sql
+
+# ========================
+# React Frontend (Node)
+# ========================
+college_management_frontend/node_modules/
+college_management_frontend/build/
+college_management_frontend/.env
+
+# frontend venv 
+college_management_frontend/venv/
+
+# npm/yarn logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# docs/
