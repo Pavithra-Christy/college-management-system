@@ -15,7 +15,7 @@ A full-stack college management system built with **React (frontend)**, **Django
 - 🧪 Exam creation and schedules
 - 📊 Result upload (faculty) and viewing (students)
 - 🖥️ Responsive design with Bootstrap
-- 🧭 Sidebar navigation with logout
+- 🧭 Navbar navigation with logout
 
 ---
 
