@@ -94,7 +94,7 @@ college\_management\_system/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/college_management_system.git
+git clone https://github.com/Pavithra-Christy/college-management-system.git
 cd college_management_system
 ````
 
