@@ -163,7 +163,7 @@ npm start
 
 * Faculty and students **must be added first by admin** to access login
 * All module access is protected by Django permissions & React `UserContext`
-* Fully working CRUD with filtered views based on ownership (for faculty)
+* Fully working CRUD with filtered views based on ownership
 * Fully responsive frontend with Bootstrap Cards and consistent layout
 
 ---
