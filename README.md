@@ -167,6 +167,62 @@ npm start
 * Fully responsive frontend with Bootstrap Cards and consistent layout
 
 ---
+## 📸 Screenshots
+
+### 🔐 Authentication
+- **Login Page**  
+  ![Login](screenshots/login-page.png)
+
+- **Sign Up Page**  
+  ![Signup](screenshots/signup-page.png)
+
+---
+
+### 🧑‍💼 Admin View
+- **Dashboard**  
+  ![Admin Dashboard](screenshots/admin-dashboard.png)
+
+- **Courses Management**  
+  ![Admin Courses](screenshots/admin-courses.png)
+
+- **Exams Page**  
+  ![Admin Exams](screenshots/admin-exams.png)
+  
+- **Exam Edit Mode**  
+  ![Admin Edit Exam](screenshots/admin-exams-edit.png)
+
+- **Enrollment List**  
+  ![Admin Enrollment](screenshots/admin-enrollment.png)
+
+- **Enrollment Edit**  
+  ![Admin Enrollment Edit](screenshots/admin-enrollment-edit.png)
+
+- **Responsive Admin Dashboard**  
+  ![Admin Dashboard Responsive](screenshots/admin-dashboard-responsive.png)
+
+---
+
+### 👨‍🏫 Faculty View
+- **Dashboard**  
+  ![Faculty Dashboard](screenshots/faculty-dashboard.png)
+
+- **Courses**  
+  ![Faculty Courses](screenshots/faculty-courses.png)
+
+- **Results Management**  
+  ![Faculty Results](screenshots/faculty-results.png)
+
+---
+
+### 🎓 Student View
+- **Dashboard**  
+  ![Student Dashboard](screenshots/student-dashboard.png)
+
+- **Results**  
+  ![Student Results](screenshots/student-results.png)
+
+- **Enrollments**  
+  ![Student Enrollment](screenshots/student-enrollment.png)
 
 ## 📄 License
 
