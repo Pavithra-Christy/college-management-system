@@ -198,7 +198,7 @@ npm start
   ![Admin Enrollment Edit](screenshots/admin-enrollment-edit.png)
 
 - **Responsive Admin Dashboard**  
-  ![Admin Dashboard Responsive](screenshots/admin-dashboard-responsive.png)
+  <img src="screenshots/admin-dashboard-responsive.png" width="400" />
 
 ---
 
